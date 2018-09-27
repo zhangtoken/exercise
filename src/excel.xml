@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<excel>
+    <id>JAXBTEST</id>
+    <name>xml转java测试</name>
+    <sheets>
+        <sheet>
+            <name>sheet1</name>
+            <columns>
+                <columsn>sheet1_column1</columsn>
+                <columsn>sheet1_column2</columsn>
+                <columsn>sheet1_column3</columsn>
+            </columns>
+        </sheet>
+        <sheet>
+            <name>sheet2</name>
+            <columns>
+                <columsn>sheet2_column1</columsn>
+                <columsn>sheet2_column2</columsn>
+                <columsn>sheet2_column3</columsn>
+            </columns>
+        </sheet>
+    </sheets>
+</excel>
